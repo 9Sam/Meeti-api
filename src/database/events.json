@@ -1,0 +1,20 @@
+[
+    {
+        "id": "",
+        "name": "",
+        "dueDate": "",
+        "days": [
+            {
+                "id": 1,
+                "hours": [
+
+                ],
+                "creationDate": "",
+                "createdBy": ""
+            }
+        ],
+        "status": "Due",
+        "creationDate": "",
+        "createdBy": ""
+    }
+]
